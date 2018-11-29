@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Holidays</string>
+
+    <string name="content_authority">com.karpov.android.holidays</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="settings_title">Settings</string>
+
+
+    <string name="US_ISO_format" translatable="false">US</string>
+    <string name="RU_ISO_format" translatable="false">RU</string>
+    <string name="CN_ISO_format" translatable="false">CN</string>
+    <string name="DE_ISO_format" translatable="false">DE</string>
+    <string name="ES_ISO_format" translatable="false">ES</string>
+    <string name="FR_ISO_format" translatable="false">FR</string>
+    <string name="JP_ISO_format" translatable="false">JP</string>
+
+
+
+
+    <string name="pref_enable_notifications_key" translatable="false">enable_notifications</string>
+    <string name="pref_enable_notifications_label">Holidays Notifications</string>
+    <string name="main_notification_channel_name">Primary</string>
+
+
+    <string name="pref_US_selected_key" translatable="false">US_select</string>
+    <string name="pref_US_selected_label">United States</string>
+
+    <string name="pref_RU_selected_key" translatable="false">RU_select</string>
+    <string name="pref_RU_selected_label">Russian Federation</string>
+
+    <string name="pref_CN_selected_key" translatable="false">CN_select</string>
+    <string name="pref_CN_selected_label">China</string>
+
+    <string name="pref_DE_selected_key" translatable="false">DE_select</string>
+    <string name="pref_DE_selected_label">Germany</string>
+
+    <string name="pref_ES_selected_key" translatable="false">ES_select</string>
+    <string name="pref_ES_selected_label">Spain</string>
+
+    <string name="pref_FR_selected_key" translatable="false">FR_select</string>
+    <string name="pref_FR_selected_label">France</string>
+
+    <string name="pref_JP_selected_key" translatable="false">JP_select</string>
+    <string name="pref_JP_selected_label">Japan</string>
+
+
+
+
+</resources>

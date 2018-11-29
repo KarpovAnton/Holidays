@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c20114</color>
+    <color name="colorPrimaryDark">#6c0e23</color>
+    <color name="colorAccent">#c71829</color>
+
+    <!-- Text color for holiday`s name in the list item -->
+    <color name="textColorHolidayName">#2B3D4D</color>
+
+    <!-- Text color for date of celebrating in the list item -->
+    <color name="textColorHolidayDate">#cc2d3c</color>
+</resources>

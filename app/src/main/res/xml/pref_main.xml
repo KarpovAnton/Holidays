@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <PreferenceCategory android:title="Notifications">
+
+        <SwitchPreference
+            android:defaultValue="@bool/pref_notifications_by_default"
+            android:key="@string/pref_enable_notifications_key"
+            android:title="@string/pref_enable_notifications_label" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Select countries">
+
+        <CheckBoxPreference
+            android:defaultValue="@bool/pref_US_selected_by_default"
+            android:key="@string/pref_US_selected_key"
+            android:title="@string/pref_US_selected_label" />
+
+        <CheckBoxPreference
+            android:defaultValue="@bool/pref_RU_selected_by_default"
+            android:key="@string/pref_RU_selected_key"
+            android:title="@string/pref_RU_selected_label" />
+
+        <CheckBoxPreference
+            android:defaultValue="@bool/pref_CN_selected_by_default"
+            android:key="@string/pref_CN_selected_key"
+            android:title="@string/pref_CN_selected_label" />
+
+        <CheckBoxPreference
+            android:defaultValue="@bool/pref_DE_selected_by_default"
+            android:key="@string/pref_DE_selected_key"
+            android:title="@string/pref_DE_selected_label" />
+
+        <CheckBoxPreference
+            android:defaultValue="@bool/pref_ES_selected_by_default"
+            android:key="@string/pref_ES_selected_key"
+            android:title="@string/pref_ES_selected_label" />
+
+        <CheckBoxPreference
+            android:defaultValue="@bool/pref_FR_selected_by_default"
+            android:key="@string/pref_FR_selected_key"
+            android:title="@string/pref_FR_selected_label" />
+
+        <CheckBoxPreference
+            android:defaultValue="@bool/pref_JP_selected_by_default"
+            android:key="@string/pref_JP_selected_key"
+            android:title="@string/pref_JP_selected_label" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
