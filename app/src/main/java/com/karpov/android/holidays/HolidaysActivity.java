@@ -39,7 +39,7 @@ public class HolidaysActivity extends AppCompatActivity implements
     /*
      * Store the indices of the values in the array of Strings above to more quickly be able to
      * access the data from our query. If the order of the Strings above changes, these indices
-     * must be adjusted to match the order of the Strings.
+     * must be adjusted to match the order of the Strings. Lol
      */
     public static final int INDEX_HOLIDAY_COUNTRY = 0;
     public static final int INDEX_HOLIDAY_NAME = 1;
